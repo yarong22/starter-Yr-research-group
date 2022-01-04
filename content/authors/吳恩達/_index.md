@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 吳恩達
+title: 郑亚荣
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- 郑亚荣
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,11 +14,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hefei University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include material science, electrochemistry, energy conversision and storage.
 
 interests:
 - Artificial Intelligence
